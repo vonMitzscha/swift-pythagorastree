@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseContentIdentifier</key>
+	<string>com.apple.playgrounds.Shapes</string>
+	<key>BaseContentVersion</key>
+	<string>1.0.1</string>
+	<key>ContentType</key>
+	<string>PlaygroundBookUserEdit</string>
+	<key>Diffs</key>
+	<dict>
+		<key>Chapters/Shapes.playgroundchapter/Pages/928F24B6-26F4-4242-B38C-16873955B8A8.playgroundpage/Contents.swift</key>
+		<string>Modified</string>
+		<key>Chapters/Shapes.playgroundchapter/Pages/928F24B6-26F4-4242-B38C-16873955B8A8.playgroundpage/UserManifest.plist</key>
+		<string>Added</string>
+		<key>Chapters/Shapes.playgroundchapter/Pages/C3E6DFDE-1F05-4E0A-9CB0-1E513A31D4A3.playgroundpage/Contents.swift</key>
+		<string>Modified</string>
+		<key>Chapters/Shapes.playgroundchapter/Pages/C3E6DFDE-1F05-4E0A-9CB0-1E513A31D4A3.playgroundpage/UserManifest.plist</key>
+		<string>Added</string>
+		<key>Chapters/Shapes.playgroundchapter/Pages/Canvas.playgroundpage/Contents.swift</key>
+		<string>Modified</string>
+		<key>Chapters/Shapes.playgroundchapter/Pages/Canvas.playgroundpage/UserManifest.plist</key>
+		<string>Added</string>
+		<key>Chapters/Shapes.playgroundchapter/Pages/Create.playgroundpage/Contents.swift</key>
+		<string>Modified</string>
+		<key>Chapters/Shapes.playgroundchapter/Pages/Create.playgroundpage/UserManifest.plist</key>
+		<string>Added</string>
+		<key>Chapters/Shapes.playgroundchapter/UserManifest.plist</key>
+		<string>Added</string>
+	</dict>
+	<key>FormatVersion</key>
+	<integer>2</integer>
+	<key>UpdatedContentVersion</key>
+	<string>1.0.1</string>
+</dict>
+</plist>
