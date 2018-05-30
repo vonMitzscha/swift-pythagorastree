@@ -1,6 +1,6 @@
 # Swift Pythagorastree
 A former homework in informatics: built a Pythagoras Tree with a recursiv function. 
-This is a tree for Swift Playgrounds. I'am no official Apple Developer, so you can not download the project from a Apple-Domain, so you have to copy this Code in a pre-built Playground "Forms". The it still must work.
+This is a tree for Swift Playgrounds. I'am no official Apple Developer, so you can not download the project from a Apple-Domain, so you have to copy this Code in a pre-built Playground "Forms". Alternatively you can download the Zip-file and open it with the 'Documents-App'
 
 Thanks to [Johann Galle](https://github.com/johann150) for supporting me deeply 😏
 
